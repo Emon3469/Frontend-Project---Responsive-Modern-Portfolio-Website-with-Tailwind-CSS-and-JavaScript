@@ -2,6 +2,12 @@
 
 A modern, responsive portfolio website showcasing professional skills, projects, and contact information. Built with HTML5, CSS3 (Tailwind CSS), and vanilla JavaScript.
 
+<img width="1904" height="945" alt="front_project" src="https://github.com/user-attachments/assets/89e6b914-c841-4caf-a02f-9e405e40a99c" />
+<img width="1906" height="698" alt="front_project1" src="https://github.com/user-attachments/assets/25eb1ef8-ce9c-47b3-b6f9-0cc3f0cba8b6" />
+<img width="1895" height="845" alt="front_project2" src="https://github.com/user-attachments/assets/7489849d-add9-4495-916b-bc08d8db2520" />
+<img width="1904" height="949" alt="front_project3" src="https://github.com/user-attachments/assets/5be43079-ce1f-4126-bd58-b35b814d0bb7" />
+
+
 ## 🌟 Features
 
 - **Responsive Design**: Optimized for all device sizes (desktop, tablet, mobile)
@@ -152,7 +158,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-**Emon** - [Your Email] - [Your LinkedIn]
+**Emon** - mdsahadathossainemon@gmail.com - www.linkedin.com/in/sahadat34
 
 Project Link: [https://github.com/yourusername/portfolio](https://github.com/yourusername/portfolio)
 
