@@ -160,7 +160,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Emon** - mdsahadathossainemon@gmail.com - www.linkedin.com/in/sahadat34
 
-Project Link: [https://github.com/yourusername/portfolio](https://github.com/yourusername/portfolio)
+Project Link: [https://github.com/Emon3469/Frontend-Project---Responsive-Modern-Portfolio-Website-with-Tailwind-CSS-and-JavaScript](https://github.com/Emon3469/Frontend-Project---Responsive-Modern-Portfolio-Website-with-Tailwind-CSS-and-JavaScript)
 
 ## 🙏 Acknowledgments
 
